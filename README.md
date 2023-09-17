@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Gajendra
+- 👀 I’m interested in Frontend Web Development
+- 🌱 I’m currently learning Nextjs and TypeScript
+- 💞️ I’m looking to collaborate on Projects which require Frontend Development Skills
+- 📫 How to reach me here you can reach out to me @ gajendratm05@gmail.com and more coming soon ,,,
