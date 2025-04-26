@@ -3,6 +3,7 @@
 🔹 Driven by quality, innovation, and continuous learning.
 
 🛠️ Skills & Expertise
+
 Automation Frameworks: Selenium 
 
 Programming Languages: Java
@@ -18,6 +19,7 @@ Performance Testing: JMeter
 Cloud & Containers: Docker (for Selenium Grid, parallel testing)
 
 🚀 What I Do
+
 Build robust, hybrid automation frameworks (Page Object Model | Data-Driven | BDD)
 
 Implement end-to-end API, UI test automation pipelines
@@ -29,6 +31,7 @@ Champion code quality, best practices, and agile testing approaches
 Create comprehensive reports with Allure, ExtentReports, and custom logging
 
 📈 Highlights
+
 ✅ Developed enterprise-grade Selenium+TestNG frameworks from scratch
 
 ✅ Automated 700+ test cases achieving >75% test coverage
