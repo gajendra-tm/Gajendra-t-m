@@ -34,8 +34,6 @@ Create comprehensive reports with Allure, ExtentReports, and custom logging
 
 ✅ Developed enterprise-grade Selenium+TestNG frameworks from scratch
 
-✅ Automated 700+ test cases achieving >75% test coverage
-
 ✅ Implemented parallel execution solutions using Dockerized Selenium Grid
 
 ✅ Integrated test automation into continuous delivery pipelines (Jenkins, GitHub Actions)
